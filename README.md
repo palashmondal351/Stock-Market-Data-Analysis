@@ -10,6 +10,7 @@ yahoo
 link: https://in.finance.yahoo.com/
 
 %%%%%%%%%%%%%%%%%%%%%%%
+
 MAIN EXECUTABLE FILE: stockprice_analysis(Copy2).ipynb
 
 Here i uploaded the code for Share Market Data Analysis. This is a customize code i analysis the data of 
@@ -20,6 +21,7 @@ I analysis the data of Google=GOOG, Facebook=FB and Tata Motors of Bombay= TATAM
 I predicted the analysis on high price of the stack, of your convinience you can take other field also. 
 
 %%%%%%%%%%%%%%%%%%%%%
+
 SECOND MAIN EXECUTABLE FILE: stockprice_analysis.ipynb
 
 Here i uploaded the code for Share Market Data Analysis. This is a customize code i analysis the data of 
