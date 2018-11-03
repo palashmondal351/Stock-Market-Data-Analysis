@@ -2,7 +2,7 @@
 Here i uploaded the code for Share Market Data Analysis. This is a customize code i analysis the data of 
 Google, Facebook and Tata Motors of Bombay.
 
-MAIN EXECUTABLE FILE: 
+MAIN EXECUTABLE FILE: stockprice_analysis(Copy2).ipynb
 
 I text the programe in notebook jupyter 
 
