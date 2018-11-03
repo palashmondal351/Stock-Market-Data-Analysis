@@ -1,6 +1,8 @@
 # Stock-Market-Data-Analysis
 Here i uploaded the code for Share Market Data Analysis. This is a customize code i analysis the data of 
-Google, Facebook and Tata Motors of Bombay. 
+Google, Facebook and Tata Motors of Bombay.
+
+MAIN EXECUTABLE FILE: 
 
 I text the programe in notebook jupyter 
 
